@@ -1,2 +1,3 @@
 # Programacion-Basica-Python
-En este repositorio encontrareis todas las practicas de laboratorio echas por mi Xabier Gabiña en las clases de la asignatura de Programacion Basica en la carrera de Ingenieria Informatica de Gestion y Sistemas de Informacion en la universidad UPV EHU durante el curso 2019-2020
+
+En este repositorio encontrareis todas las prácticas de laboratorio echas por mí, Xabier Gabiña, en las clases de la asignatura programación básica en la carrera de ingeniería informática de gestión y sistemas de información en la universidad UPV EHU.
